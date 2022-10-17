@@ -411,7 +411,7 @@ void MERETDD_CLASS::run ()
 #define CONFIRM_FALSE( actual ) \
     MereTDD::confirm(false, actual, __LINE__)
 #define CONFIRM_TRUE( actual ) \
-    MereTDD:: confirm(true, actual, __LINE__)
+    MereTDD::confirm(true, actual, __LINE__)
 #define CONFIRM( expected, actual ) \
     MereTDD::confirm(expected, actual, __LINE__)
 
