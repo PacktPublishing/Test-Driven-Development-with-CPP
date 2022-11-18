@@ -56,3 +56,8 @@ With the following software and hardware list you can run all code files present
 **Abdul Wahid Tanner**
 is the founder and an instructor at Take Up Code which teaches programmers the joys of coding through live classes, podcasts, books and more. He has authored two self-published titles, "How To Code C++ From A Simple Idea To A Game You’ll Understand!" and "The C++ Game Starter Template System". He was previously working as a software engineer at Bloomberg LP, and a Principal Software Engineer at Citrix. With over four decades of experience in the tech world, he has worked with established companies such as Dell and Microsoft in the past, and has been a speaker at CppCon. He currently resides in Texas, USA.
 
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803242002">https://packt.link/free-ebook/9781803242002 </a> </p>
